@@ -4,7 +4,7 @@ Hi 👋 My name is Sulav
 Software Engineer | Blockchain and AI Enthusiast
 ------------------------------------------------
 
-* 🌍  I'm based in Rexburg
+* 🌍  I'm based in Rexburg, USA 
 * ✉️  You can contact me at [sulav.txt@gmail.com](mailto:sulav.txt@gmail.com)
 * 🚀  I'm currently working on [Decentralized Housing Project](http://#)
 * 🧠  I'm learning Blockchain Development, Data Structures & Algorithms

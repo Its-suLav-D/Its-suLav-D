@@ -7,7 +7,7 @@ Software Engineer | Blockchain and AI Enthusiast
 * 🌍  I'm based in WFH 
 * ✉️  You can contact me at [sulav.txt@gmail.com](mailto:sulav.txt@gmail.com)
 * 🚀  I'm currently working on [Decentralized Housing Project](http://#)
-* 🧠  I'm learning Blockchain Development, Data Structures & Algorithms
+* 🧠  I'm learning Machine Learning, Blockchain Development, Data Structures & Algorithms
 * 🤝  I'm open to collaborating on interesting projects
 
 ### Skills

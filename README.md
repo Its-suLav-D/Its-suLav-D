@@ -1,7 +1,7 @@
 Hi 👋 My name is Sulove
 ======================
 
-Software Engineer | Blockchain and AI Enthusiast
+Software Engineer | AI Enthusiast
 ------------------------------------------------
 
 * 🌍  I'm based in WFH 

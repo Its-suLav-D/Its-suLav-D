@@ -5,9 +5,8 @@ Software Engineer | Blockchain and AI Enthusiast
 ------------------------------------------------
 
 * 🌍  I'm based in WFH 
-* ✉️  You can contact me at [sulav.txt@gmail.com](mailto:sulav.txt@gmail.com)
-* 🚀  I'm currently working on [Decentralized Housing Project](http://#)
-* 🧠  I'm learning Machine Learning, Blockchain Development, Data Structures & Algorithms
+* ✉️  You can contact me [Here] (https://www.linkedin.com/in/sulove-dahal-4499a2181/)
+* 🧠  I'm learning Machine Learning, Deep Learning, Data Analytics 
 * 🤝  I'm open to collaborating on interesting projects
 
 ### Skills
